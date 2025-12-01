@@ -14,5 +14,3 @@ fpdf
 scipy
 seaborn
 streamlit-option-menu
-REQ
-
