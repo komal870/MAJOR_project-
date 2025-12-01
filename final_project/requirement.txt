@@ -1,0 +1,18 @@
+mkdir -p /mnt/data/project/{models,src,data,history,docs}
+
+# write requirements
+cat > /mnt/data/project/requirements.txt <<'REQ'
+streamlit
+pandas
+numpy
+scikit-learn
+joblib
+matplotlib
+plotly
+shap
+fpdf
+scipy
+seaborn
+streamlit-option-menu
+REQ
+
