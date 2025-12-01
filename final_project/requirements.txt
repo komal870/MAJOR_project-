@@ -9,8 +9,7 @@ scikit-learn
 joblib
 matplotlib
 plotly
-shap
-fpdf
 scipy
 seaborn
-streamlit-option-menu
+streamlit-option-menu==0.3.6
+
